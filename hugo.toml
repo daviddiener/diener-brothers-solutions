@@ -18,14 +18,13 @@ languageCode = "de-DE"
 title = "Diener Brothers Solutions"
 dateFormat = "2 January 2006"
 
-
 # Hero Area Section
 [Languages.de.params.hero]
 enable = true
-heading = "Wir lassen Marken mit Leidenschaft wachsen."
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+heading = "Professionelle Webseiten für lokale Unternehmen."
+description = "Wir erstellen kostengünstige, hochwertige Websites und maßgeschneiderte Webanwendungen, die auf Ihre Geschäftsanforderungen zugeschnitten sind - von statischen Webseiten bis hin zu leistungsstarken Tools wie Finanzierungsrechnern."
 button = true
-btnText = "Know More"
+btnText = "Mehr erfahren"
 btnURL = "https://solutions.dienerbrothers.com/"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
@@ -33,15 +32,8 @@ videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 # About 2 Section
 [Languages.de.params.aboutSm]
 enable = true
-title = "FRANCAIS We have explored the digital landscape with passion for a long time"
+title = "We have explored the digital landscape with passion for a long time"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
-
-# Blog Section On Homepage
-[Languages.de.params.blog]
-enable = true
-topTitle = "OUR UNTOLD STORY"
-title = "FRANCAIS Blog."
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 
 # Contact Section
 [Languages.de.params.contact]
@@ -75,9 +67,6 @@ weight = 2
 languageCode = "en-us"
 title = "Diener Brothers Solutions"
 dateFormat = "January 2, 2006"
-home = "Home"
-logo = "images/logo.png"
-menufixed = false
 
 
 # cookies
@@ -101,13 +90,6 @@ videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 enable = true
 title = "We have explored the digital landscape with passion for a long time"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
-
-# Blog Section On Homepage
-[Languages.en.params.blog]
-enable = true
-topTitle = "OUR UNTOLD STORY"
-title = "Blog."
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 
 # Contact Section
 [Languages.en.params.contact]
