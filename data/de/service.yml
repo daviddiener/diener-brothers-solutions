@@ -1,0 +1,28 @@
+enable    : true
+topTitle  : EINE LISTE UNSERER DIENSTLEISTUNGEN
+title     : Unsere Leistungen.
+subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+item      :
+  - icon  : tf-ion-ios-copy-outline
+    title : Branding
+    list  :
+      - name : Brand Strategy
+      - name : Advertising / Campaigns
+      - name : Product Design
+      - name : Video / Photography
+
+  - icon: tf-ion-ios-alarm-outline
+    title: Branding
+    list  :
+      - name: Webdesign
+      - name: E-Commerce-Webseitendesign
+      - name: App-Entwicklung
+      - name: Mobiles UI-Design
+
+  - icon  : tf-ion-ios-book-outline
+    title : IOS-App-Entwicklung
+    list  :
+      - name : Game Development
+      - name : Game Design
+      - name : Social Media Marketing
+      - name : Mobile UI Design

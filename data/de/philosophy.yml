@@ -1,0 +1,25 @@
+enable    : true
+topTitle  : EIN KURZER ÜBERBLICK
+title     : Über uns.
+subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+tabItem   :
+  - id        : philosophy
+    title     : Unsere Philosophie
+    heading   : Wir kreieren Designs und Technologien
+    content   : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+    image     : images/company/company-image.jpg
+
+  - id        : mission
+    title     : Mission
+    heading   : Unsere Mission
+    content   : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+    image     : images/company/company-image-2.jpg
+
+  - id        : vision
+    title     : Vision
+    heading   : Unsere Vision
+    content   : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+    image     : images/company/company-image-3.jpg
